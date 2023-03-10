@@ -1,0 +1,21 @@
+{
+    "name": "zustand-mini",
+    "version": "1.0.0",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "description": "Zustand mini",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/1adybug/zustand-mini"
+    },
+    "scripts": {
+        "build": "npx tsc -p ."
+    },
+    "dependencies": {},
+    "keywords": [],
+    "devDependencies": {
+        "@types/react": "^18.0.28",
+        "typescript": "^4.9.5"
+    }
+}
